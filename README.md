@@ -1,5 +1,7 @@
 # Zokdy - Leveraging AI to solve real-world problems
 
+visit https://zokdy.com/
+
 Zokdy is a startup focused on using artificial intelligence (AI) to create powerful solutions that solve real-world problems. Our website showcases our mission, company culture, and upcoming product, Spillmate - an AI-powered chatbot that provides mental health counseling to those who may not seek it out due to social stigma, confidentiality concerns, or other reasons.
 
 Our team is made up of passionate individuals with diverse backgrounds in execution, operations, and technology. We're always on the lookout for innovative ways to push the boundaries of what's possible and are dedicated to providing personalized solutions to our clients.
